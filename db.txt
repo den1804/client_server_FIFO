@@ -1,0 +1,4 @@
+A01,Bread,10
+A02,Water,5
+A03,Apple,3
+A04,Bananas,7
